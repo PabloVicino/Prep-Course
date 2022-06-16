@@ -1,0 +1,37 @@
+#titulo{
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 500px;
+      margin: 0px auto;
+      background: yellowgreen;
+      border: black 2px solid;
+}
+#h1 {
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    margin: 30px;
+    background-color: rgb(255, 255, 255);
+    border: 3px solid black;
+}
+#h2 {
+    font-size: 20px;
+    margin: 50px auto;
+}
+#p2 {
+    margin: 0px auto;
+}
+#h3 {
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    margin: 30px;
+    background-color: rgb(255, 255, 255);
+    border: 3px solid black;
+}
